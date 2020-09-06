@@ -1,5 +1,8 @@
 # Roaster-using-structs
-//programmed for 1430 introduction to programming class in 2020
+#//programmed for 1430 introduction to programming class in 2020
+
+
+
 This program will store a roster of most popular videos with kittens. The roster can include at most 10 kittens.You will implement structures to handle kitten information. You will also use functions to manipulate the structure.
 (1) Create a structure kitten. The structure should contain the following attributes:
 	• name; string
